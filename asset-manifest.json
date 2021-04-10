@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/css/main.38d3fc4d.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/main.7d8b6da0.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/main.7d8b6da0.chunk.js.map",
+    "main.js": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/main.f99ba2ab.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/main.f99ba2ab.chunk.js.map",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/runtime-main.379103c0.js",
     "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/runtime-main.379103c0.js.map",
     "static/js/2.22720067.chunk.js": "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@gh-pages/static/js/2.22720067.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.379103c0.js",
     "static/js/2.22720067.chunk.js",
     "static/css/main.38d3fc4d.chunk.css",
-    "static/js/main.7d8b6da0.chunk.js"
+    "static/js/main.f99ba2ab.chunk.js"
   ]
 }
